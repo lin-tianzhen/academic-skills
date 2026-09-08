@@ -69,8 +69,11 @@ Title page:
 - 5-minute version
 - 10-minute version
 - likely questions from supervisor or audience
+  
+12. Summary / 总结
+- A summary of the paper
 
-12. Reference Trace Table / 原文依据索引表
+13. Reference Trace Table / 原文依据索引表
 - Claim
 - Source location
 - Evidence type: text, equation, figure, table, experiment
@@ -87,12 +90,14 @@ Recommended Chinese headings:
 - 研究背景与问题
 - 方法与模型
 - 实验/仿真/数据设置
+- 性能度量
 - 结果与图表解读
 - 创新点与贡献
 - 局限性与边界条件
 - 可复现要点
 - 与用户课题的关系
 - 汇报讲稿要点
+- 文献总结
 - 原文依据索引表
 
 ## Evidence Label Format
