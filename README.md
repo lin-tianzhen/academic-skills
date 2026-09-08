@@ -2,6 +2,7 @@
 
 > 三个面向中国科研工作者的学术技能包，覆盖论文写作、学术 Office 文档生成与科研计算三大场景。
 > 所有 skill 均可在 **Claude Code** 和 **Codex** 两个平台上直接使用。
+> todo：兼容workBuddy、Doubao等国产软件
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Claude%20Code-orange?style=flat-square" />
@@ -143,6 +144,8 @@
 - 光学、光电子、光通信、光纤传感
 - BOTDR/BOTDA、BGS、SPM、色散、噪声、去卷积
 - 光谱学、探测器数据、传感器时间序列、标定与不确定度
+- 计算机、计算机应用技术、人工智能、计算机视觉、多模态大模型、图像识别、机器学习、具身智能
+- x光图像、x光违禁品检测、x光图像分割、x光三维重建
 
 ### 内置参考资源
 
